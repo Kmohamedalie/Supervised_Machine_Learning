@@ -1,4 +1,4 @@
-# Supervised Machine Learning Algorithms
+# Supervised Machine Learning - Classification Algorithms
 Course: 365datascience - <a href="https://www.udemy.com/course/the-supervised-machine-learning-course/learn/lecture/33662468#overview">Supervised  Machine Learning Bootcamp</a>
 
 
