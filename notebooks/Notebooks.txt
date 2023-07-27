@@ -1,0 +1,5 @@
+Naive Bayes
+K-Nearest Neighbors
+Decision Trees and Random Forests
+Support Vector Machines
+Ridge and Lasso Regression
