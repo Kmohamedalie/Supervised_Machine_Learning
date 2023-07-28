@@ -43,13 +43,18 @@ However in this repository we will be focusing solely on the following classific
         <td><a href=""> </a></td>
       <tr>
         <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-support-vector-machines/">Support Vector Machines </a></td> 
-        <td><a href=""> </a></td>
-        <td><a href=""> </a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/notebooks/Support_Vector_Machine_Algorithm_Mushroom.ipynb"> SVM</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/mushrooms-full-dataset.csv">Mushroom </a></td>
       </tr>
            <tr>
         <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-ridge-and-lasso-regression/">Ridge and Lasso Regression </a></td>
         <td><a href=""> </a></td>
              <td><a href=""> </a></td>
       </tr>
+	           <tr>
+        <td><a href="">Ensemble - Xgboost </a></td>
+        <td><a href=""> </a></td>
+             <td><a href=""> </a></td>
+      </tr>   
    </tbody>
 </table>
