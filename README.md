@@ -53,8 +53,8 @@ However in this repository we will be focusing solely on the following classific
       </tr>
 	           <tr>
         <td><a href="">Ensemble - Xgboost </a></td>
-        <td><a href=""> </a></td>
-             <td><a href=""> </a></td>
+	<td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/notebooks/Xgboost_Algorithm_IBM_Telco_Customer_Churn.ipynb">Xgboost</a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/Telco-Customer-Churn.csv"> IBM Telco Customer Churn</a></td>
       </tr>   
    </tbody>
 </table>
