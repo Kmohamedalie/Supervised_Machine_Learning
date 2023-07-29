@@ -45,7 +45,7 @@ However in this repository we will be focusing solely on the following classific
         <td>
 		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/Iris.csv">Iris Flower </a>,
 	        <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/glass.csv"> Glass Identification </a>,
-	        <a href="">   </a>	
+	        <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/tree/master/datasets/Census_Income_Dataset">Census Income</a>	
         </td>
       <tr>
         <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-support-vector-machines/">Support Vector Machines </a></td> 
@@ -64,7 +64,7 @@ However in this repository we will be focusing solely on the following classific
       </tr>   
       <tr>
         <td><a href="">Logistic Regression </a></td>
-	<td><a href="">Logistic </a></td>
+	<td><a href="">Logistic Reg </a></td>
         <td><a href=""> </a></td>
       </tr>     
    </tbody>
