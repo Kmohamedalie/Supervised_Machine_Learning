@@ -38,9 +38,13 @@ However in this repository we will be focusing solely on the following classific
         <td><a href=""> </a></td>
       </tr>
       <tr>
-        <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-decision-trees-and-random-forests/">Ensemble - Random Forests</a></td>
-        <td><a href=""> </a>Boosting RF</td>
-        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/Iris.csv">Iris Flower </a></td>
+        <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-decision-trees-and-random-forests/">Decision Tree - Random Forests</a></td>
+        <td><a href=""> </a> <a href="">Decision Tree</a> , <a href="">Random Forest (Bagging)</a></td>
+        <td>
+		<a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/Iris.csv">Iris Flower </a>,
+	        <a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/datasets/glass.csv"> Glass Identification </a>,
+	        <a href="">   </a>	
+        </td>
       <tr>
         <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-support-vector-machines/">Support Vector Machines </a></td> 
         <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/notebooks/Support_Vector_Machine_Algorithm_Mushroom.ipynb"> SVM</a></td>
