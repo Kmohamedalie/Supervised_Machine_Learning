@@ -34,8 +34,8 @@ However in this repository we will be focusing solely on the following classific
       </tr>
       <tr>
         <td><a href="https://learn.365datascience.com/courses/preview/machine-learning-with-k-nearest-neighbors/">K-Nearest Neighbors </a></td>
-        <td><a href=""> </a></td>
-        <td><a href=""> </a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/notebooks/K_Nearest_Neighbors_using_Grid_Search.ipynb">K-NN Grid Search CV </a></td>
+        <td><a href="https://github.com/Kmohamedalie/Supervised_Machine_Learning-Classification/blob/master/notebooks/K_Nearest_Neighbors_using_Grid_Search.ipynb">Synthetic Data </a></td>
       </tr>
       <tr>
         <td><a href="">Logistic Regression </a></td>
