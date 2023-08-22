@@ -21,7 +21,7 @@ However in this repository we will be focusing solely on the following classific
 <table>
    <thead>
       <tr>
-         <th>Algorithms</th>
+         <th>Algorithms</th> 
          <th>Notebooks</th>
         <th>Datasets</th>
       </tr>
